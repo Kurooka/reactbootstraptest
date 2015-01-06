@@ -1,4 +1,0 @@
-reactbootstraptest
-==================
-
-react+bootstrap+githubpagesテスト
